@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * @author Monday Odoh  <https://github.com/Monemax94>
+ * @author Wisdom Okoroafor <https://github.com/wisdomoo>
  * @returns {Number}
  */
 export default function getStudentIdsSum(lists) {

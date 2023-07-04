@@ -4,7 +4,7 @@
  * @param {Set<String>} set - A collection of strings.
  * @param {String} startString - The string to strip from the beginning
  * of each item in the set.
- * @author Monday Odoh <https://github.com/Monemax94>
+ * @author Wisdom Okoroafor <https://github.com/wisdomoo>
  * @returns {String}
  */
 export default function cleanSet(set, startString) {

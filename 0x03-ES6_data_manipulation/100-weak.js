@@ -14,7 +14,7 @@ const MAX_ENDPOINT_CALLS = 5;
  *   protocol: String,
  *   name: String,
  * }} endpoint - The endpoint to make a request to.
- * @author Monday Odoh  <https://github.com/Monemax94>
+ * @author Wisdom Okoroafor <https://github.com/wisdomoo>
  */
 export function queryAPI(endpoint) {
   if (!weakMap.has(endpoint)) {
